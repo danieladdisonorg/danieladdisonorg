@@ -98,7 +98,7 @@
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
       <a href="https://www.credly.com/badges/74384c0d-5bcb-4532-be0b-df4fc85bd168/public_url">
-        <img src="./certificates/python-for-data-science.png" height = "300" alt="Python For Data Science"/>
+        <img src="./certificates/python-for-data-science.PNG" height = "300" alt="Python For Data Science"/>
       </a>
       <br/>
       <b>Python For Data Science</b>
