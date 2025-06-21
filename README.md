@@ -52,8 +52,8 @@
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | IPFS
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Supabase and so on
- 
-  
+
+
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -77,8 +77,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.Credly Badges.com/certificates/ef9415d1759e">
-        <img src="./certificates/artificial-intelligence-fundamentals.PNG" height = "200" alt="ai-fundamentals"/>
+      <a href="https://www.credly.com/badges/74384c0d-5bcb-4532-be0b-df4fc85bd168/public_url">
+        <img src="./certificates/artificial-intelligence-fundamentals.PNG" height = "300" alt="ai-fundamentals"/>
       </a>
       <br/>
       <b>Artificial Intelligence Fundamentals</b>
@@ -86,8 +86,8 @@
       <sub>Credly Badges</sub>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.Credly Badges.com/certificates/3b73e30d28a6">
-        <img src="./certificates/web-development-with-python.PNG" height = "200" alt="Web Development With Python"/>
+      <a href="https://www.credly.com/badges/c4ee3a3a-aab9-4258-8e19-5d65eb82323f/public_url">
+        <img src="./certificates/web-development-with-python.PNG" height = "300" alt="Web Development With Python"/>
       </a>
       <br/>
       <b>Web Development With Python</b>
@@ -97,8 +97,8 @@
   </tr>
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.credly.com/badges/d67fd917-1f71-4df2-86fe-5a61935a75ac/public_url">
-        <img src="./certificates/python-for-data-science.png" height = "200" alt="Python For Data Science"/>
+      <a href="https://www.credly.com/badges/74384c0d-5bcb-4532-be0b-df4fc85bd168/public_url">
+        <img src="./certificates/python-for-data-science.png" height = "300" alt="Python For Data Science"/>
       </a>
       <br/>
       <b>Python For Data Science</b>
@@ -106,8 +106,8 @@
       <sub>Credly Badges</sub>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://www.Credly Badges.com/certificates/388034a6e711">
-        <img src="./certificates/IBM-MQ-on-AWS-Cloud-Developer-Essentials.PNG" height = "200" alt="IBM MQ on AWS Cloud Developer Essentials"/>
+      <a href="https://www.credly.com/badges/05213618-6a0e-45d8-ad4f-b47996275492/public_url">
+        <img src="./certificates/IBM-MQ-on-AWS-Cloud-Developer-Essentials.PNG" height = "300" alt="IBM MQ on AWS Cloud Developer Essentials"/>
       </a>
       <br/>
       <b>IBM MQ on AWS Essentials</b>
